@@ -185,3 +185,5 @@ Karakter	Deskripsi				Named Entity		Numeric Entity
 •		Bullet				&bull;			&#8226;
 
 ...		Horizontal ellipsis		&hellip;			&#8230;
+
+vvsdvs
