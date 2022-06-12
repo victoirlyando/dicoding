@@ -122,53 +122,53 @@ figure<figure> di gunakan untuk sebagai tempat copyright
 
 atribut table
 Elemen dan Atribut      		Description
-table						Menetapkan elemen tabel.
-td						Menetapkan sebuah sel dalam baris tabel.
-colspan=”number”				Jumlah kolom yang dicakup oleh sel.
-rowspan=”number”				Jumlah baris yang dicakup oleh sel.
+table					Menetapkan elemen tabel.
+td					Menetapkan sebuah sel dalam baris tabel.
+colspan=”number”			Jumlah kolom yang dicakup oleh sel.
+rowspan=”number”			Jumlah baris yang dicakup oleh sel.
 headers=”nama header”			Mengasosiasikan data sel dengan header.
 
-th						Menetapkan header yang terkait dengan baris atau kolom.
-colspan=”number”				Jumlah kolom dicakup oleh header.
-rowspan=”number”				Jumlah row yang dicakup oleh header.
+th					Menetapkan header yang terkait dengan baris atau kolom.
+colspan=”number”			Jumlah kolom dicakup oleh header.
+rowspan=”number”			Jumlah row yang dicakup oleh header.
 headers=”nama header”			Mengasosiasikan header dengan header lain.
 scope=”row|col|rowgroup|colgroup”	Mengasosiasikan header dengan baris, kelompok baris, kolom atau kelompok kolom.
 
-tr						Menetapkan sebuah baris pada tabel.
+tr					Menetapkan sebuah baris pada tabel.
 caption					Memberikan judul pada sebuah tabel.
-col						Menetapkan sebuah kolom.
-colgroup					Menetapkan sebuah kelompok kolom.
-tbody						Mengidentifikasi sebuah body dalam tabel.
-tfoot						Mengidentifikasi sebuah footer dalam tabel.
-thead						Mengidentifikasi sebuah header dalam tabel.
+col					Menetapkan sebuah kolom.
+colgroup				Menetapkan sebuah kelompok kolom.
+tbody					Mengidentifikasi sebuah body dalam tabel.
+tfoot					Mengidentifikasi sebuah footer dalam tabel.
+thead					Mengidentifikasi sebuah header dalam tabel.
 
 Escaping artinya adalah tidak menuliskan karakter itu sendiri, melainkan menggantinya dengan nilai numeric atau character reference pada karakternya.
 
 Berikut daftar karakter spesial dengan karakter referensinya.
 
-Karakter	Deskripsi				Named Entity		Numeric Entity
+Karakter	Deskripsi			Named Entity		Numeric Entity
 
 		non-breaking space		&nbsp;			&#160;
 
-&		Ampersand				&amp;				&#038;
+&		Ampersand			&amp;			&#038;
 
-’		Apostrophe				&apos;			&#039;
+’		Apostrophe			&apos;			&#039;
 
-<		Kurang dari (less-than)		&lt;				&#060;
+<		Kurang dari (less-than)		&lt;			&#060;
 
->		Lebih dari (greater-than)	&gt;				&#062;
+>		Lebih dari (greater-than)	&gt;			&#062;
 
 ©		Hak cipta (copyright)		&copy;			&#169;
 
-®		Merek dagang terdaftar 		&reg;				&#174;
+®		Merek dagang terdaftar 		&reg;			&#174;
 
 ™		Merek dagang (trademark)	&trade;			&#8482;
 
-£		Pound					&pound;			&#163;
+£		Pound				&pound;			&#163;
 
-¥		Yen					&yen;				&#165;
+¥		Yen				&yen;			&#165;
 
-€		Euro					&euro;			&#8364;
+€		Euro				&euro;			&#8364;
 
 –		En-dash				&ndash;			&#8211;
 
@@ -178,12 +178,11 @@ Karakter	Deskripsi				Named Entity		Numeric Entity
 
 ’		Kutip tunggal kanan		&rsquo;			&#8217;
 
-“		Kutip ganda kiri			&ldquo;			&#8221;
+“		Kutip ganda kiri		&ldquo;			&#8221;
 
-”		Kutip ganda kanan			&rdquo;			&#8221;
+”		Kutip ganda kanan		&rdquo;			&#8221;
 
 •		Bullet				&bull;			&#8226;
 
-...		Horizontal ellipsis		&hellip;			&#8230;
+...		Horizontal ellipsis		&hellip;		&#8230;
 
-vvsdvs
