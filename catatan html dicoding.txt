@@ -1,41 +1,41 @@
 pelatihan dicoding
 
-Website 	: Halaman yang menampilkan informasi kepada pengguna berupa teks atau gambar. Website dapat diakses melalui internet dengan menggunakan browser.
-Browser 	: Sebuah perangkat lunak yang dapat menerjemahkan berkas HTML, CSS, dan JavaScript yang didapat dari web server untuk ditampilkan dalam bentuk halaman website.
+Website : Halaman yang menampilkan informasi kepada pengguna berupa teks atau gambar. Website dapat diakses melalui internet dengan menggunakan browser.
+Browser : Sebuah perangkat lunak yang dapat menerjemahkan berkas HTML, CSS, dan JavaScript yang didapat dari web server untuk ditampilkan dalam bentuk halaman website.
 HTTP Server : Server berperan pada sebuah website sebagai sebuah software yang dapat menerima transaksi dari HyperText Transfer Protocol.
-DNS Server 	: Server yang dapat mengubah/mengarahkan website melalui sebuah nama domain.
-Client 		: Perangkat yang meminta (request) suatu layanan tertentu ke suatu server.
-HTML 		: Salah satu bahasa markup (markup language) yang digunakan untuk membuat struktur dan menampilkan konten pada World Wide Web (Website).
-CSS 		: Bahasa markup yang digunakan untuk mengatur dan mempercantik tampilan pada website.
-JavaScript 	: Bahasa pemrograman yang digunakan untuk membantu website menampilkan informasi secara dinamis.
+DNS Server : Server yang dapat mengubah/mengarahkan website melalui sebuah nama domain.
+Client : Perangkat yang meminta (request) suatu layanan tertentu ke suatu server.
+HTML : Salah satu bahasa markup (markup language) yang digunakan untuk membuat struktur dan menampilkan konten pada World Wide Web (Website).
+CSS : Bahasa markup yang digunakan untuk mengatur dan mempercantik tampilan pada website.
+JavaScript : Bahasa pemrograman yang digunakan untuk membantu website menampilkan informasi secara dinamis.
 Text Editor : Sebuah perangkat lunak yang digunakan untuk mengelola plain text. Kode HTML, CSS, dan Javascript dituliskan menggunakan perangkat ini.
-Plain Text 	: Teks yang tidak terformat. Format teks ini digunakan dalam penulisan berkas HTML, CSS, dan Javascript.
-Rich Text 	: Teks yang terformat. Format teks ini digunakan jika kita ingin menulis menggunakan Microsoft Word atau teks editor berbasis WYSIWYG (What You See Is What You Get).
-Element 	: Sebuah komponen pada HTML yang ditandai dengan tag pembuka dan penutup.
+Plain Text : Teks yang tidak terformat. Format teks ini digunakan dalam penulisan berkas HTML, CSS, dan Javascript.
+Rich Text : Teks yang terformat. Format teks ini digunakan jika kita ingin menulis menggunakan Microsoft Word atau teks editor berbasis WYSIWYG (What You See Is What You Get).
+Element : Sebuah komponen pada HTML yang ditandai dengan tag pembuka dan penutup.
 
 Berikut contoh elemen yang berada pada konten head:
 <title> <style> <base> <link> <meta> <script> <noscript>
 
 ATRIBUT HTML
-accesskey 		:Menentukan tombol shortcut untuk mengaktifkan/memfokuskan pada sebuah element.
-class 			:Menentukan satu atau lebih classname untuk sebuah elemen.
-contenteditable :Menentukan konten dari elemen merupakan konten yang dapat diubah atau tidak.
-data-*			:Digunakan untuk menyimpan sebuah data pribadi khusus ke halaman atau aplikasi.
-dir 			:Menentukan arah teks untuk konten pada suatu elemen.
-draggable 		:Menentukan apakah suatu elemen dapat di-drag atau tidak.
-dropzone		:Menentukan apakah data yang di-drag adalah data yang disalin, dipindahkan, atau ditautkan saat dijatuhkan.
-hidden 			:Menentukan apakah suatu elemen ditampilkan atau tidak pada browser.
-id				:Menetapkan id pada elemen.
-lang 			:Menentukan bahasa pada konten elemen.
-spellcheck 		:Menentukan apakah elemen harus diperiksa ejaannya dan tata bahasanya atau tidak.
-style 			:Menentukan styling secara satu baris untuk suatu elemen.
-tabindex 		:Menentukan urutan dari suatu elemen.
-title 			:Menentukan informasi tambahan tentang suatu elemen.
-translate 		:Menentukan apakah konten elemen harus diterjemahkan atau tidak.
+accesskey:Menentukan tombol shortcut untuk mengaktifkan/memfokuskan pada sebuah element.
+class:Menentukan satu atau lebih classname untuk sebuah elemen.
+contenteditable:Menentukan konten dari elemen merupakan konten yang dapat diubah atau tidak.
+data-*:Digunakan untuk menyimpan sebuah data pribadi khusus ke halaman atau aplikasi.
+dir:Menentukan arah teks untuk konten pada suatu elemen.
+draggable:Menentukan apakah suatu elemen dapat di-drag atau tidak.
+dropzone::Menentukan apakah data yang di-drag adalah data yang disalin, dipindahkan, atau ditautkan saat dijatuhkan.
+hidden:Menentukan apakah suatu elemen ditampilkan atau tidak pada browser.
+id:Menetapkan id pada elemen.
+lang:Menentukan bahasa pada konten elemen.
+spellcheck:Menentukan apakah elemen harus diperiksa ejaannya dan tata bahasanya atau tidak.
+style:Menentukan styling secara satu baris untuk suatu elemen.
+tabindex:Menentukan urutan dari suatu elemen.
+title:Menentukan informasi tambahan tentang suatu elemen.
+translate:Menentukan apakah konten elemen harus diterjemahkan atau tidak.
 
 Pada HTML terdapat tiga tipe list:{<li></li>}
 Unordered lists : daftar yang ditampilkan tidak memiliki urutan. {<ul></ul>}
-Ordered lists 	: daftar yang ditampilkan secara terurut.{<ol></ol>}
+Ordered lists : daftar yang ditampilkan secara terurut.{<ol></ol>}
 Berikut nilai - nilai yang dapat digunakan pada atribut type pada elemen <ol>:
 1:Menggunakan angka dalam urutan item (default)
 a:Menggunakan huruf kecil dalam urutan item
@@ -49,25 +49,26 @@ Description lists : daftar yang terbuat dari beberapa istilah diikuti dengan des
 
 <img>:untuk menampilkan gambar
 atribu dalam img:
-src  :berfungsi sebagai sumber dari gambar yang ditampilkan
-alt  :ketika gambar gagal ditampilkan maka akan memunculkan teks alternatif yang dapat mewakili arti dari gambar
-{jenis format gambar yang umum digunakan pada pembuatan website}
-Graphics Interchange Format(.gif)	:Dapat digunakan untuk gambar animasi.Ukuran file biasanya kecil.Kualitas gambar terbatas.
-Joint Photographic Expert Group image(.jpg, .jpeg, .jfif, .pjpeg, .pjp)	:Kualitas text pada gambar dapat menjadi buruk.Ukuran file lumayan kecil.Pada website biasanya digunakan untuk gambar yang tidak banyak text.
-Portable Network Graphics(.png)		:Text lebih bisa terbaca dibandingkan jenis Jpeg.Ukuran file dapat menjadi besar sehingga mengurangi kecepatan memuat situs.
-WebP(.webp)		:Dibandingkan dengan gambar berkualitas sama pada jpeg atau png, ukuran file pada webp dapat menjadi lebih kecil.Namun tidak semua web browser dapat membaca webp.
-Scalable Vector Graphics(.svg)  :Kualitas gambar terjaga dan ukuran file kecil.Namun tidak cocok untuk gambar yang terlalu kompleks seperti foto.Pada website biasanya digunakan untuk logo atau icon.
-width  :Untuk menentukan lebar gambar 
-height :untuk menentukan tinggi
+src :berfungsi sebagai sumber dari gambar yang ditampilkan
+alt :ketika gambar gagal ditampilkan maka akan memunculkan teks alternatif yang dapat mewakili arti dari gambar
+jenis format gambar yang umum digunakan pada pembuatan website.
+Graphics Interchange Format(.gif):Dapat digunakan untuk gambar animasi.Ukuran file biasanya kecil.Kualitas gambar terbatas.
+Joint Photographic Expert Group image(.jpg, .jpeg, .jfif, .pjpeg, .pjp):Kualitas text pada gambar dapat menjadi buruk.Ukuran file lumayan kecil.Pada website biasanya digunakan untuk gambar yang tidak banyak text.
+Portable Network Graphics(.png):Text lebih bisa terbaca dibandingkan jenis Jpeg.Ukuran file dapat menjadi besar sehingga mengurangi kecepatan memuat situs.
+WebP(.webp):Dibandingkan dengan gambar berkualitas sama pada jpeg atau png, ukuran file pada webp dapat menjadi lebih kecil.Namun tidak semua web browser dapat membaca webp.
+Scalable Vector Graphics(.svg):Kualitas gambar terjaga dan ukuran file kecil.Namun tidak cocok untuk gambar yang terlalu kompleks seperti foto.Pada website biasanya digunakan untuk logo atau icon.
+width:Untuk menentukan lebar gambar , height:untuk menentukan tinggi
 
 Teks Terformat
 Long quotations:<blockquote>
 Jika pada konten kita memiliki sebuah kutipan ataupun sebuah testimonial berupa sebuah paragraf, heading, ataupun list
-Preformatted text <pre>:mengabaikan penulisan spasi yang dituliskan secara berulang dan juga line breaks
-Figure <figcaption>:sebuah caption (judul) untuk konten
-Short quotations <q>:digunakan untuk kutipan pendek
-
-Anchor <a>...</a>
+Preformatted text:<pre>
+mengabaikan penulisan spasi yang dituliskan secara berulang dan juga line breaks
+Figure:<figcaption>
+sebuah caption (judul) untuk konten
+Short quotations:<q>
+digunakan untuk kutipan pendek
+Anchor:<a>...</a>
 atribut didalam href :
 download(filename):Menginstruksikan browser untuk mengunduh pada URL yang ditetapkan daripada mengarahkannya.  
 href(URL):Menetapkan target yang akan diarahkan/unduh ketika pengguna menekan hyperlink.
@@ -76,14 +77,19 @@ ping(list_of_URLs):Menetapkan URL yang akan diberitahu dengan mengirimkan post r
 rel(alternate,author,bookmark,external,help,license,next,nofollow,noreferrer,noopener,prev,search,tag):Menetapkan hubungan antara halaman yang ditampilkan dengan target.
 target(_blank,_parent,_self,_top):Menetapkan lokasi ketika membuka target contohnya pada sebuah tab, window atau pada tab itu sendiri.
 media(media_type):Menetapkan tipe media yang digunakan pada target.
-
-Emphasized text <em>: untuk menunjukan bagian kata yang perlu kita tekankan
-Important text <strong>: untuk menunjukan sebuah teks yang begitu penting (strong importance), serius, ataupun mendesak
-Citation <cite>:merupakan sebuah elemen yang digunakan untuk sebuah rujukan pada sebuah dokumen
-Defining terms <dfn>: digunakan ketika mendefinisikan sebuah istilah (term)
-Subscript <sub> dan superscript <sup>: merupakan elemen yang dapat membuat teks yang ditampilkan nampak kecil, dengan posisi di bawah (sub) atau di atas (sup) dari teks biasanya
-Highlighted text <mark>: ketika terdapat sebuah teks yang memiliki peran penting, biasanya teks tersebut merupakan bagian yang paling relevan atau penting dalam sebuah konteks kalimat
-Line Break <br> :baris baru
+Emphasized text:<em> 
+untuk menunjukan bagian kata yang perlu kita tekankan
+Important text:<strong> 
+untuk menunjukan sebuah teks yang begitu penting (strong importance), serius, ataupun mendesak
+Citation:<cite>
+merupakan sebuah elemen yang digunakan untuk sebuah rujukan pada sebuah dokumen
+Defining terms:<dfn> 
+digunakan ketika mendefinisikan sebuah istilah (term)
+Subscript <sub> dan superscript <sup>
+merupakan elemen yang dapat membuat teks yang ditampilkan nampak kecil, dengan posisi di bawah (sub) atau di atas (sup) dari teks biasanya
+Highlighted text:<mark>
+ketika terdapat sebuah teks yang memiliki peran penting, biasanya teks tersebut merupakan bagian yang paling relevan atau penting dalam sebuah konteks kalimat
+Line Break:<br> baris baru
  
 Header dan Footer
 Header digunakan sebagai pengantar atau pembuka konten dalam sebuah elemen <article> atau <section>.(menampilkan nama situs dan navigasi utama.)
@@ -115,26 +121,26 @@ digunakan sebagai phrase elements dan tidak terdapat line breaks ketika mengguna
 figure<figure> di gunakan untuk sebagai tempat copyright
 
 atribut table
-Elemen dan Atribut      			Description
-table								Menetapkan elemen tabel.
-td									Menetapkan sebuah sel dalam baris tabel.
-colspan=”number”					Jumlah kolom yang dicakup oleh sel.
-rowspan=”number”					Jumlah baris yang dicakup oleh sel.
-headers=”nama header”				Mengasosiasikan data sel dengan header.
+Elemen dan Atribut      		Description
+table						Menetapkan elemen tabel.
+td						Menetapkan sebuah sel dalam baris tabel.
+colspan=”number”				Jumlah kolom yang dicakup oleh sel.
+rowspan=”number”				Jumlah baris yang dicakup oleh sel.
+headers=”nama header”			Mengasosiasikan data sel dengan header.
 
-th									Menetapkan header yang terkait dengan baris atau kolom.
-colspan=”number”					Jumlah kolom dicakup oleh header.
-rowspan=”number”					Jumlah row yang dicakup oleh header.
-headers=”nama header”				Mengasosiasikan header dengan header lain.
+th						Menetapkan header yang terkait dengan baris atau kolom.
+colspan=”number”				Jumlah kolom dicakup oleh header.
+rowspan=”number”				Jumlah row yang dicakup oleh header.
+headers=”nama header”			Mengasosiasikan header dengan header lain.
 scope=”row|col|rowgroup|colgroup”	Mengasosiasikan header dengan baris, kelompok baris, kolom atau kelompok kolom.
 
-tr									Menetapkan sebuah baris pada tabel.
-caption								Memberikan judul pada sebuah tabel.
-col									Menetapkan sebuah kolom.
-colgroup							Menetapkan sebuah kelompok kolom.
-tbody								Mengidentifikasi sebuah body dalam tabel.
-tfoot								Mengidentifikasi sebuah footer dalam tabel.
-thead								Mengidentifikasi sebuah header dalam tabel.
+tr						Menetapkan sebuah baris pada tabel.
+caption					Memberikan judul pada sebuah tabel.
+col						Menetapkan sebuah kolom.
+colgroup					Menetapkan sebuah kelompok kolom.
+tbody						Mengidentifikasi sebuah body dalam tabel.
+tfoot						Mengidentifikasi sebuah footer dalam tabel.
+thead						Mengidentifikasi sebuah header dalam tabel.
 
 Escaping artinya adalah tidak menuliskan karakter itu sendiri, melainkan menggantinya dengan nilai numeric atau character reference pada karakternya.
 
@@ -142,22 +148,42 @@ Berikut daftar karakter spesial dengan karakter referensinya.
 
 Karakter	Deskripsi				Named Entity		Numeric Entity
 
-		non-breaking space			&nbsp;				&#160;
-&		Ampersand					&amp;				&#038;
-’		Apostrophe					&apos;				&#039;
+		non-breaking space		&nbsp;			&#160;
+
+&		Ampersand				&amp;				&#038;
+
+’		Apostrophe				&apos;			&#039;
+
 <		Kurang dari (less-than)		&lt;				&#060;
+
 >		Lebih dari (greater-than)	&gt;				&#062;
-©		Hak cipta (copyright)		&copy;				&#169;
+
+©		Hak cipta (copyright)		&copy;			&#169;
+
 ®		Merek dagang terdaftar 		&reg;				&#174;
-™		Merek dagang (trademark)	&trade;				&#8482;
-£		Pound						&pound;				&#163;
-¥		Yen							&yen;				&#165;
-€		Euro						&euro;				&#8364;
-–		En-dash						&ndash;				&#8211;
-—		Em-dash						&mdash;				&#8212;
-‘		Kutip tunggal kiri			&lsquo;				&#8216;
-’		Kutip tunggal kanan			&rsquo;				&#8217;
-“		Kutip ganda kiri			&ldquo;				&#8221;
-”		Kutip ganda kanan			&rdquo;				&#8221;
-•		Bullet						&bull;				&#8226;
-...		Horizontal ellipsis			&hellip;			&#8230;
+
+™		Merek dagang (trademark)	&trade;			&#8482;
+
+£		Pound					&pound;			&#163;
+
+¥		Yen					&yen;				&#165;
+
+€		Euro					&euro;			&#8364;
+
+–		En-dash				&ndash;			&#8211;
+
+—		Em-dash				&mdash;			&#8212;
+
+‘		Kutip tunggal kiri		&lsquo;			&#8216;
+
+’		Kutip tunggal kanan		&rsquo;			&#8217;
+
+“		Kutip ganda kiri			&ldquo;			&#8221;
+
+”		Kutip ganda kanan			&rdquo;			&#8221;
+
+•		Bullet				&bull;			&#8226;
+
+...		Horizontal ellipsis		&hellip;			&#8230;
+
+vvsdvs
